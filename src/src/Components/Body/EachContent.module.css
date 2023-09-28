@@ -1,0 +1,26 @@
+.main{
+    border: 2px solid black;
+    margin: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 75%;
+    border-radius: 12px;
+    font-size: large;
+    color: #0ff;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 12px;
+    border-color: white;
+}
+
+.btn{
+    padding: 0px;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.in{
+    display: inline;
+    cursor: default;
+}

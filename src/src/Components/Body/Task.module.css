@@ -1,0 +1,15 @@
+.main{
+    position: relative;
+    top: -450px;
+    left: 450px;
+    width: max-content;
+    height: max-content;
+    padding: 12px;
+    background-color: white;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+}
